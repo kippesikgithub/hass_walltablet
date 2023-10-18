@@ -1,5 +1,7 @@
 # Tablet Mounted on the Wall for HA
-Tablet mounted on the wall in the Living room used for controlling HA
+Tablet mounted on the wall in the Living room used for controlling HA  
+![image](https://github.com/kippesikgithub/hass_walltablet/assets/100353268/efe72b6b-ea1a-45e4-bca6-633bd5471e63)
+
 
 ## Needed Parts
 - Lenovo M10 FHD 2nd gen Tablet
