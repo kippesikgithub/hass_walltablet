@@ -1,6 +1,6 @@
 # Tablet Mounted on the Wall for HA
 Tablet mounted on the wall in the Living room used for controlling HA  
-![image](https://github.com/kippesikgithub/hass_walltablet/assets/100353268/efe72b6b-ea1a-45e4-bca6-633bd5471e63)
+![image](https://github.com/user-attachments/assets/a6117630-3bf9-4e86-a7c9-4bfdea50e6d7)
 
 
 ## Needed Parts
